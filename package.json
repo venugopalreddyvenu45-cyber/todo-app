@@ -1,9 +1,6 @@
 {
   "name": "todoapp",
-  "author": {
-    "name": "Maciej Twaróg",
-    "url": "https://github.com/maciekt07"
-  },
+  "author": "Maciej Twaróg (https://github.com/maciekt07)",
   "private": true,
   "type": "module",
   "homepage": "https://react-cool-todo-app.netlify.app/",
@@ -89,5 +86,12 @@
   },
   "lint-staged": {
     "**/*.{ts,tsx,js,mjs,md,json,html,css}": "npm run format"
-  }
+  },
+  "description": "<!-- <p align=\"center\"> <img src=\"https://raw.githubusercontent.com/maciekt07/TodoApp/main/public/logo192.png\" width=\"128px\" /> </p> -->",
+  "bugs": {
+    "url": "https://github.com/maciekt07/TodoApp/issues"
+  },
+  "version": "1.0.0",
+  "main": "eslint.config.js",
+  "keywords": []
 }
